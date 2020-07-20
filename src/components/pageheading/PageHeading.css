@@ -1,0 +1,17 @@
+.page_heading {
+    margin-top: 1rem;
+    padding: 0rem 0rem 0rem 0rem;
+}
+
+.page_heading h3{
+    margin: 0px;
+    padding: 0px;
+    text-shadow: #dedede 3px 3px 5px;
+    color: #095167;
+}
+
+.page_heading p {
+    margin: 0px;
+    padding: 0px;
+}
+

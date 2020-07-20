@@ -1,0 +1,14 @@
+.card.panel {
+    box-shadow: #e1e1e1 1px 1px 5px;
+}
+
+.card.panel .card-header {
+    font-weight: bold;
+    text-shadow: #2d6a1c 2px 2px 2px;
+    font-size: 110%;
+}
+
+.card.panel .card-footer {
+    font-weight: bold;
+    font-size: 110%;
+}

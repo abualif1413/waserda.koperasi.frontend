@@ -1,0 +1,31 @@
+.list01:nth-last-child(1) {
+    border-bottom: solid 0px white;
+}
+
+.list01 {
+    border-bottom: solid 1px #f0f0f0;
+    padding: 0.2rem 0.5rem;
+    font-size: 90%;
+}
+
+.list01Tree {
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}
+
+.list01:hover {
+    background-color: #d8f4e7;
+}
+
+.list01 .keterangan {
+    padding-top: 0.2rem;
+    font-weight: bold;
+}
+
+.list01 .item2 {
+    font-size: 80%;
+}
+
+.list01 .row_item {
+    padding-bottom: 0.2rem;
+}
